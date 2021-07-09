@@ -1,0 +1,7 @@
+#content,body,#header .topbar,#header #site-nav,.form-control,#side-categories.side-cover {
+    background-color: black;
+    background: black;
+}
+#cookies-use-alert{
+    display: none !important;
+}
